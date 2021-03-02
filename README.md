@@ -5,10 +5,12 @@ A drawing app using Kotlin. It can draw. It can import Images and draw on it and
     Screenshot:
     <br>
     <img src="https://github.com/Akhmen18/DrawingApp/blob/main/SS1.png" height=500px>
-    <br>
     <img src="https://github.com/Akhmen18/DrawingApp/blob/main/SS2.png" height=500px>
     <br>
     <img src="https://github.com/Akhmen18/DrawingApp/blob/main/SS3.png" height=500px>
-    <br>
     <img src="https://github.com/Akhmen18/DrawingApp/blob/main/SS4.png" height=500px>
+    <br>
+    Share Functionality:
+    <br>
+    <img src="https://github.com/Akhmen18/DrawingApp/blob/main/SS5.png" height=500px>
  
